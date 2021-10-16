@@ -1,2 +1,2 @@
 # curly-engine
-My Own Apps
+All my public projects are here
